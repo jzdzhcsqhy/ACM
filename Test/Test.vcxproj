@@ -11,6 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <None Include="digraph.txt" />
     <None Include="黑魔法.txt" />
   </ItemGroup>
   <ItemGroup>

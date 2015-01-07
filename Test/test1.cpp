@@ -1,15 +1,13 @@
 #include <stdio.h>
-#include <iostream>
+#include <stdlib.h>
 
-using namespace std;
-
-int main( int argc, char** argv )
+int main(void)
 {
-
-	int a =1;
-	int b =2;
-
-
+	int x = 5;
+	printf("%d and ", sizeof(x++)); // note 1
+	printf("%d\n", x); // note 2
+	x++;
+	int a = sizeof(x++);
 	system("pause");
 	return 0;
 }
