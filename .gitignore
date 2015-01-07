@@ -1,5 +1,5 @@
-ACM.sdf
-ACM.opensdf
+*.sdf
+*.opensdf
 Thunbs.db
 *.obj
 *.exe
