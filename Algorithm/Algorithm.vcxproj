@@ -10,6 +10,13 @@
       <Platform>Win32</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="sort.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MergeSort.cpp" />
+    <ClCompile Include="sort.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{BE2AF2F0-9CC2-4F49-8420-3ABA58853AF8}</ProjectGuid>
     <RootNamespace>Algorithm</RootNamespace>
