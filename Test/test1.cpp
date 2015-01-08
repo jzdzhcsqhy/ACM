@@ -1,13 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <malloc.h>
+#include <string>
+
+using namespace std;
 
 int main(void)
 {
-	int x = 5;
-	printf("%d and ", sizeof(x++)); // note 1
-	printf("%d\n", x); // note 2
-	x++;
-	int a = sizeof(x++);
+	char str[122];
+	memset(str,'0',sizeof(str));
+	sprintf(str,"%016s","1234");
+	printf("%s\n",str);
 	system("pause");
-	return 0;
 }
