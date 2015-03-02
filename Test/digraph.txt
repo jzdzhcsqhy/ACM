@@ -1,2 +1,0 @@
-http://en.wikipedia.org/wiki/Digraphs_and_trigraphs#C
-记载里一些各种语言的字符组合被解析成不同内容

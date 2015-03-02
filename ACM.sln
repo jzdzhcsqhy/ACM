@@ -5,7 +5,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algorithm", "Algorithm\Algo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ACMFile", "ACMFile\ACMFile.vcxproj", "{18DD6D54-89A8-4064-BC7B-C15203C4C9B3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test", "Test\Test.vcxproj", "{7AD04161-DE1C-4E0B-89C2-ABCFBA72378F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test", "Test\Test.vcxproj", "{4CAFB328-B5F6-44B4-B825-9E2CDB5E6527}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,10 +21,10 @@ Global
 		{18DD6D54-89A8-4064-BC7B-C15203C4C9B3}.Debug|Win32.Build.0 = Debug|Win32
 		{18DD6D54-89A8-4064-BC7B-C15203C4C9B3}.Release|Win32.ActiveCfg = Release|Win32
 		{18DD6D54-89A8-4064-BC7B-C15203C4C9B3}.Release|Win32.Build.0 = Release|Win32
-		{7AD04161-DE1C-4E0B-89C2-ABCFBA72378F}.Debug|Win32.ActiveCfg = Debug|Win32
-		{7AD04161-DE1C-4E0B-89C2-ABCFBA72378F}.Debug|Win32.Build.0 = Debug|Win32
-		{7AD04161-DE1C-4E0B-89C2-ABCFBA72378F}.Release|Win32.ActiveCfg = Release|Win32
-		{7AD04161-DE1C-4E0B-89C2-ABCFBA72378F}.Release|Win32.Build.0 = Release|Win32
+		{4CAFB328-B5F6-44B4-B825-9E2CDB5E6527}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4CAFB328-B5F6-44B4-B825-9E2CDB5E6527}.Debug|Win32.Build.0 = Debug|Win32
+		{4CAFB328-B5F6-44B4-B825-9E2CDB5E6527}.Release|Win32.ActiveCfg = Release|Win32
+		{4CAFB328-B5F6-44B4-B825-9E2CDB5E6527}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
