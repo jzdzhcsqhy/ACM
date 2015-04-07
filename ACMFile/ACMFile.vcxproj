@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="poj1753.cpp" />
+    <ClCompile Include="poj2965.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{18DD6D54-89A8-4064-BC7B-C15203C4C9B3}</ProjectGuid>
