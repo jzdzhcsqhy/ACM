@@ -68,6 +68,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="readme.txt" />
     <None Include="问题列表.txt" />
   </ItemGroup>
   <ItemGroup>
