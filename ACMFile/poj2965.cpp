@@ -1,6 +1,7 @@
 #include "iostream"
 #include <queue>
 #include <map>
+#include <vector>
 using namespace std;
 
 typedef struct 
@@ -8,6 +9,8 @@ typedef struct
 	int x;
 	int y;
 }Step;
+
+
 
 bool mark[4][4];
 
