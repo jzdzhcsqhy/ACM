@@ -12,6 +12,9 @@ typedef struct
 
 
 
+
+
+
 bool mark[4][4];
 
 int main( int argc, char** argv )
