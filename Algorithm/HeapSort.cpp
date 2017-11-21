@@ -1,5 +1,7 @@
 #include <iostream>
-#include <so
+#include <iostream>
+
+
 using namespace std;
 
 void InitHeap( int a[100], int n )
