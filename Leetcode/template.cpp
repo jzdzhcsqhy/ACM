@@ -1,5 +1,4 @@
 #pragma once
-#pragma once
 #include "../Base.hpp"
 
 class Solution : public CSolutionBase

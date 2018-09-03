@@ -4,6 +4,8 @@
 #include <algorithm>
 #include <vector>
 #include <functional>
+#include <sstream>
+#include <tuple>
 
 using namespace std;
 
