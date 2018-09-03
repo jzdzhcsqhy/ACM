@@ -29,3 +29,4 @@ _ReSharper*/
 *.ipch
 ipch/*/*.ipch
 
+*.opendb

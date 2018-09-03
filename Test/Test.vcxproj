@@ -56,6 +56,7 @@
       <Optimization>MaxSpeed</Optimization>
       <FunctionLevelLinking>true</FunctionLevelLinking>
       <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>MARKUP_STL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
     <Link>
       <GenerateDebugInformation>true</GenerateDebugInformation>
@@ -75,11 +76,12 @@
     <None Include="问题列表.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Markup.cpp" />
     <ClCompile Include="rsa.cpp" />
-    <ClCompile Include="shutdown.cpp" />
     <ClCompile Include="Test.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Markup.h" />
     <ClInclude Include="rsa.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

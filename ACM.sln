@@ -1,32 +1,65 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algorithm", "Algorithm\Algorithm.vcxproj", "{BE2AF2F0-9CC2-4F49-8420-3ABA58853AF8}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ACMFile", "ACMFile\ACMFile.vcxproj", "{18DD6D54-89A8-4064-BC7B-C15203C4C9B3}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test", "Test\Test.vcxproj", "{4CAFB328-B5F6-44B4-B825-9E2CDB5E6527}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "剑指offer", "剑指offer\剑指offer.vcxproj", "{600AA78E-E6E5-4292-9484-CF192AEF4822}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Leetcode", "Leetcode\Leetcode.vcxproj", "{B1BEAE9B-EC28-44AF-8A11-6E8106BC156D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
 		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{BE2AF2F0-9CC2-4F49-8420-3ABA58853AF8}.Debug|Win32.ActiveCfg = Debug|Win32
 		{BE2AF2F0-9CC2-4F49-8420-3ABA58853AF8}.Debug|Win32.Build.0 = Debug|Win32
+		{BE2AF2F0-9CC2-4F49-8420-3ABA58853AF8}.Debug|x64.ActiveCfg = Debug|Win32
 		{BE2AF2F0-9CC2-4F49-8420-3ABA58853AF8}.Release|Win32.ActiveCfg = Release|Win32
 		{BE2AF2F0-9CC2-4F49-8420-3ABA58853AF8}.Release|Win32.Build.0 = Release|Win32
+		{BE2AF2F0-9CC2-4F49-8420-3ABA58853AF8}.Release|x64.ActiveCfg = Release|Win32
 		{18DD6D54-89A8-4064-BC7B-C15203C4C9B3}.Debug|Win32.ActiveCfg = Debug|Win32
 		{18DD6D54-89A8-4064-BC7B-C15203C4C9B3}.Debug|Win32.Build.0 = Debug|Win32
+		{18DD6D54-89A8-4064-BC7B-C15203C4C9B3}.Debug|x64.ActiveCfg = Debug|Win32
 		{18DD6D54-89A8-4064-BC7B-C15203C4C9B3}.Release|Win32.ActiveCfg = Release|Win32
 		{18DD6D54-89A8-4064-BC7B-C15203C4C9B3}.Release|Win32.Build.0 = Release|Win32
+		{18DD6D54-89A8-4064-BC7B-C15203C4C9B3}.Release|x64.ActiveCfg = Release|Win32
 		{4CAFB328-B5F6-44B4-B825-9E2CDB5E6527}.Debug|Win32.ActiveCfg = Debug|Win32
 		{4CAFB328-B5F6-44B4-B825-9E2CDB5E6527}.Debug|Win32.Build.0 = Debug|Win32
+		{4CAFB328-B5F6-44B4-B825-9E2CDB5E6527}.Debug|x64.ActiveCfg = Debug|Win32
 		{4CAFB328-B5F6-44B4-B825-9E2CDB5E6527}.Release|Win32.ActiveCfg = Release|Win32
 		{4CAFB328-B5F6-44B4-B825-9E2CDB5E6527}.Release|Win32.Build.0 = Release|Win32
+		{4CAFB328-B5F6-44B4-B825-9E2CDB5E6527}.Release|x64.ActiveCfg = Release|Win32
+		{600AA78E-E6E5-4292-9484-CF192AEF4822}.Debug|Win32.ActiveCfg = Debug|Win32
+		{600AA78E-E6E5-4292-9484-CF192AEF4822}.Debug|Win32.Build.0 = Debug|Win32
+		{600AA78E-E6E5-4292-9484-CF192AEF4822}.Debug|x64.ActiveCfg = Debug|x64
+		{600AA78E-E6E5-4292-9484-CF192AEF4822}.Debug|x64.Build.0 = Debug|x64
+		{600AA78E-E6E5-4292-9484-CF192AEF4822}.Release|Win32.ActiveCfg = Release|Win32
+		{600AA78E-E6E5-4292-9484-CF192AEF4822}.Release|Win32.Build.0 = Release|Win32
+		{600AA78E-E6E5-4292-9484-CF192AEF4822}.Release|x64.ActiveCfg = Release|x64
+		{600AA78E-E6E5-4292-9484-CF192AEF4822}.Release|x64.Build.0 = Release|x64
+		{B1BEAE9B-EC28-44AF-8A11-6E8106BC156D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B1BEAE9B-EC28-44AF-8A11-6E8106BC156D}.Debug|Win32.Build.0 = Debug|Win32
+		{B1BEAE9B-EC28-44AF-8A11-6E8106BC156D}.Debug|x64.ActiveCfg = Debug|x64
+		{B1BEAE9B-EC28-44AF-8A11-6E8106BC156D}.Debug|x64.Build.0 = Debug|x64
+		{B1BEAE9B-EC28-44AF-8A11-6E8106BC156D}.Release|Win32.ActiveCfg = Release|Win32
+		{B1BEAE9B-EC28-44AF-8A11-6E8106BC156D}.Release|Win32.Build.0 = Release|Win32
+		{B1BEAE9B-EC28-44AF-8A11-6E8106BC156D}.Release|x64.ActiveCfg = Release|x64
+		{B1BEAE9B-EC28-44AF-8A11-6E8106BC156D}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {146B55AF-47D0-4FE6-90D1-379E5F70E5B0}
 	EndGlobalSection
 EndGlobal
