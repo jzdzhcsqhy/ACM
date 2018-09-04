@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Leetcode",
+    "\\Leetcode\\Problem"
   ],
-  "SelectedNode": "\\剑指offer",
+  "SelectedNode": "\\Leetcode\\main.cpp",
   "PreviewInSolutionExplorer": false
 }

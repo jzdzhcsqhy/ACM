@@ -6,6 +6,7 @@
 #include <functional>
 #include <sstream>
 #include <tuple>
+#include <math.h>
 
 using namespace std;
 

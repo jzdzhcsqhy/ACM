@@ -50,6 +50,18 @@
     <ClInclude Include="Problem\447.hpp">
       <Filter>源文件\01 Problem</Filter>
     </ClInclude>
+    <ClInclude Include="Problem\264.hpp">
+      <Filter>源文件\01 Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="Problem\560.hpp">
+      <Filter>源文件\01 Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="Problem\390.hpp">
+      <Filter>源文件\01 Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="Problem\865.hpp">
+      <Filter>源文件\01 Problem</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="template.cpp">
