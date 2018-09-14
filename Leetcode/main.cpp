@@ -4,13 +4,15 @@
 #include "Base.hpp"
 using namespace std;
 
-#include "Problem\865.hpp"
+#include "Problem\137.hpp"
 
 extern CSolutionBase* gpBase;
 
 int main(int argc, char** argv)
 {
 	
+	int i = 0;
+
 	if(gpBase )
 	{
 		gpBase->run();

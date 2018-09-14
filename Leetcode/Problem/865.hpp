@@ -14,21 +14,7 @@ class Solution : public CSolutionBase
 
 public:
 
-	TreeNode* InitTree( vector<int> & vct, int iIndex )
-	{
-		if( iIndex >= vct.size() || vct[iIndex] == -1)
-		{
-			return nullptr;
-		}
-
-		TreeNode* pNode = new TreeNode(vct[iIndex]);
 	
-		pNode->left = InitTree(vct, iIndex * 2 +1);
-		pNode->right = InitTree(vct, iIndex * 2 + 2);
-
-		return pNode;
-
-	}
 
 
 	bool run()

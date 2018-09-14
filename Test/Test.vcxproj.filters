@@ -13,9 +13,6 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="xml">
-      <UniqueIdentifier>{232471f4-28e6-4421-85c7-8481f0aad5a5}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="问题列表.txt">
@@ -32,16 +29,10 @@
     <ClCompile Include="rsa.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Markup.cpp">
-      <Filter>xml</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="rsa.h">
       <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="Markup.h">
-      <Filter>xml</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

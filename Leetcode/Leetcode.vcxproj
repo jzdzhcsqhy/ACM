@@ -116,15 +116,27 @@
   <ItemGroup>
     <ClInclude Include="Base.hpp" />
     <ClInclude Include="commonDef.h" />
+    <ClInclude Include="Points\BinaryIndexTree.hpp" />
+    <ClInclude Include="Problem\101.hpp" />
+    <ClInclude Include="Problem\137.hpp" />
     <ClInclude Include="Problem\264.hpp" />
+    <ClInclude Include="Problem\326.hpp" />
+    <ClInclude Include="Problem\342.hpp" />
+    <ClInclude Include="Problem\378.hpp" />
     <ClInclude Include="Problem\390.hpp" />
+    <ClInclude Include="Problem\434.hpp" />
     <ClInclude Include="Problem\447.hpp" />
     <ClInclude Include="Problem\50.hpp" />
     <ClInclude Include="Problem\557.hpp" />
     <ClInclude Include="Problem\560.hpp" />
+    <ClInclude Include="Problem\58.hpp" />
     <ClInclude Include="Problem\628.hpp" />
     <ClInclude Include="Problem\767.hpp" />
+    <ClInclude Include="Problem\796.hpp" />
     <ClInclude Include="Problem\865.hpp" />
+    <ClInclude Include="Problem\643.hpp" />
+    <ClInclude Include="Problem\880.hpp" />
+    <ClInclude Include="Problem\BITTest.hpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="template.cpp" />

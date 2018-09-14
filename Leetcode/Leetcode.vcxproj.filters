@@ -22,6 +22,12 @@
     <Filter Include="源文件\01 Problem">
       <UniqueIdentifier>{81deaa53-f55a-4d09-b737-e1ca12d6610b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\01 Problem\pass">
+      <UniqueIdentifier>{a368716f-9498-4368-b15c-cf1048dbd86e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\02 DataObject">
+      <UniqueIdentifier>{62e6ae78-1a27-4eb6-a4ad-0bf47ed7de1c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -32,34 +38,70 @@
     <ClInclude Include="Base.hpp">
       <Filter>头文件\00 Common</Filter>
     </ClInclude>
-    <ClInclude Include="Problem\767.hpp">
-      <Filter>源文件\01 Problem</Filter>
-    </ClInclude>
     <ClInclude Include="commonDef.h">
       <Filter>头文件\00 Common</Filter>
     </ClInclude>
-    <ClInclude Include="Problem\628.hpp">
-      <Filter>源文件\01 Problem</Filter>
-    </ClInclude>
     <ClInclude Include="Problem\50.hpp">
-      <Filter>源文件\01 Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="Problem\557.hpp">
-      <Filter>源文件\01 Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="Problem\447.hpp">
-      <Filter>源文件\01 Problem</Filter>
+      <Filter>源文件\01 Problem\pass</Filter>
     </ClInclude>
     <ClInclude Include="Problem\264.hpp">
-      <Filter>源文件\01 Problem</Filter>
+      <Filter>源文件\01 Problem\pass</Filter>
     </ClInclude>
-    <ClInclude Include="Problem\560.hpp">
-      <Filter>源文件\01 Problem</Filter>
+    <ClInclude Include="Problem\342.hpp">
+      <Filter>源文件\01 Problem\pass</Filter>
     </ClInclude>
     <ClInclude Include="Problem\390.hpp">
-      <Filter>源文件\01 Problem</Filter>
+      <Filter>源文件\01 Problem\pass</Filter>
+    </ClInclude>
+    <ClInclude Include="Problem\447.hpp">
+      <Filter>源文件\01 Problem\pass</Filter>
+    </ClInclude>
+    <ClInclude Include="Problem\557.hpp">
+      <Filter>源文件\01 Problem\pass</Filter>
+    </ClInclude>
+    <ClInclude Include="Problem\560.hpp">
+      <Filter>源文件\01 Problem\pass</Filter>
+    </ClInclude>
+    <ClInclude Include="Problem\628.hpp">
+      <Filter>源文件\01 Problem\pass</Filter>
+    </ClInclude>
+    <ClInclude Include="Problem\796.hpp">
+      <Filter>源文件\01 Problem\pass</Filter>
     </ClInclude>
     <ClInclude Include="Problem\865.hpp">
+      <Filter>源文件\01 Problem\pass</Filter>
+    </ClInclude>
+    <ClInclude Include="Problem\643.hpp">
+      <Filter>源文件\01 Problem\pass</Filter>
+    </ClInclude>
+    <ClInclude Include="Problem\767.hpp">
+      <Filter>源文件\01 Problem\pass</Filter>
+    </ClInclude>
+    <ClInclude Include="Problem\378.hpp">
+      <Filter>源文件\01 Problem\pass</Filter>
+    </ClInclude>
+    <ClInclude Include="Problem\326.hpp">
+      <Filter>源文件\01 Problem\pass</Filter>
+    </ClInclude>
+    <ClInclude Include="Problem\101.hpp">
+      <Filter>源文件\01 Problem\pass</Filter>
+    </ClInclude>
+    <ClInclude Include="Points\BinaryIndexTree.hpp">
+      <Filter>源文件\02 DataObject</Filter>
+    </ClInclude>
+    <ClInclude Include="Problem\BITTest.hpp">
+      <Filter>源文件\01 Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="Problem\434.hpp">
+      <Filter>源文件\01 Problem\pass</Filter>
+    </ClInclude>
+    <ClInclude Include="Problem\58.hpp">
+      <Filter>源文件\01 Problem\pass</Filter>
+    </ClInclude>
+    <ClInclude Include="Problem\880.hpp">
+      <Filter>源文件\01 Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="Problem\137.hpp">
       <Filter>源文件\01 Problem</Filter>
     </ClInclude>
   </ItemGroup>
